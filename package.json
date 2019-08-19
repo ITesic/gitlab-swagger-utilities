@@ -1,0 +1,15 @@
+{
+  "name": "gitlab-swaggerui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilija Tesic",
+  "license": "ISC",
+  "dependencies": {
+    "swagger-ui-dist": "^3.22.1",
+    "swagger-ui-react": "^3.22.1"
+  }
+}
