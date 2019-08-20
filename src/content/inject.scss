@@ -1,0 +1,17 @@
+//== GITLAB
+
+#blob-content-holder .file-holder {
+  .blob-viewer {
+    display: block;
+  }
+  .swagger-viewer {
+    display: none;
+  }
+  &.swagger-preview-on .blob-viewer {
+    display: none;
+  }
+  &.swagger-preview-on .swagger-viewer {
+    display: block;
+  }
+}
+
