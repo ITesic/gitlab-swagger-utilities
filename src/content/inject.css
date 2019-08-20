@@ -1,0 +1,11 @@
+#blob-content-holder .file-holder .blob-viewer {
+  display: block; }
+
+#blob-content-holder .file-holder .swagger-viewer {
+  display: none; }
+
+#blob-content-holder .file-holder.swagger-preview-on .blob-viewer {
+  display: none; }
+
+#blob-content-holder .file-holder.swagger-preview-on .swagger-viewer {
+  display: block; }

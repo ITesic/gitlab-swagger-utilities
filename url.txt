@@ -1,1 +1,0 @@
-https://git.mgmt.ocp.bawag.com/msa/lucy/lucy-homescreen/raw/develop/lucy-homescreen-api/src/main/swagger/lucy-homescreen-contract.yaml

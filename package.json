@@ -1,15 +1,27 @@
 {
-  "name": "gitlab-swaggerui",
-  "version": "1.0.0",
-  "description": "",
+  "name": "gitlab-swagger-utilities",
+  "version": "1.0.6",
+  "description": "Edit and preview swagger files directly in Gitlab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp",
+    "build": "gulp build",
+    "package": "gulp package"
   },
-  "author": "Ilija Tesic",
-  "license": "ISC",
-  "dependencies": {
-    "swagger-ui-dist": "^3.22.1",
-    "swagger-ui-react": "^3.22.1"
-  }
+  "author": "Ilija Tesic <ilija.tesic@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.8.0",
+    "gulp-chrome-manifest": "^0.0.13",
+    "gulp-clean": "^0.3.2",
+    "gulp-copy": "^1.0.1",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "gulp-zip": "^4.0.0"
+  },
+  "dependencies": {}
 }
