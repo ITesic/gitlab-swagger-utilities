@@ -12,11 +12,11 @@
   "license": "MIT",
   "devDependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-bump": "^2.8.0",
     "gulp-chrome-manifest": "^0.0.13",
     "gulp-clean": "^0.3.2",
-    "gulp-copy": "^1.0.1",
+    "gulp-copy": "^4.0.1",
     "gulp-json-editor": "^2.2.1",
     "gulp-replace": "^0.6.1",
     "gulp-sass": "^3.1.0",
